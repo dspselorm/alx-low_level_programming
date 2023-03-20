@@ -6,9 +6,7 @@
  * main function determines if a number is positive, negative or zero
  *
  *Return 0 always
- * 
  */
-
 int main(void)
 {
 	int n;
