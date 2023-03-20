@@ -17,11 +17,11 @@ int main(void)
 			putchar(m + '0');
 			putchar(n + '0');
 			if (m == 8 && n == 9)
-
+			{
 				continue;
-
-				putchar(',');
-				putchar(' ');
+			}
+			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
